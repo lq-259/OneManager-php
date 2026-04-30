@@ -30,18 +30,16 @@
 
 ---
 
-# ~~Deploy to Replit~~  
-
-## the old data_url can not modify, the new postgresql URI can not connected.
+# Deploy to Replit  
 
 ### Official
 
   https://repl.it/  
   https://replit.com/  
 
-### Demo
+### Notice
 
-  https://onemanager.qkqpttgf.repl.co/  
+  you should Republish after 30 days to active it.  
 
 ### How to Install
 A:

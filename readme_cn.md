@@ -32,18 +32,16 @@
 
 ---
 
-# ~~部署到 Replit~~  
-
-## 旧数据位置失效，新的postgresql根本连不上
+# 部署到 Replit  
 
 ### 官网
 
   https://repl.it/  
   https://replit.com/  
 
-### Demo
+### 注意
 
-  https://onemanager.qkqpttgf.repl.co/  
+  每30天要重新发布  
 
 ### 安装
 A:
